@@ -9,10 +9,11 @@
         cursor: pointer;
     }
 
-h1 {
+header {
     font-family:fantasy;
     color:darkred;
     text-align: center;
+    font-size:xx-large;
 }
 
 .btn-close {
