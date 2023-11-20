@@ -1,0 +1,20 @@
+.gallery-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 15px;
+}
+    .gallery-grid img {
+        width: 100%;
+        height: auto;
+        cursor: pointer;
+    }
+
+h1 {
+    font-family:fantasy;
+    color:darkred;
+    text-align: center;
+}
+
+.btn-close {
+    margin-top: 10px;
+}
